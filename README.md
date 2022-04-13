@@ -4,7 +4,7 @@ Throughout 2022 I have embarked on a number of 30 day challenges, this is the st
 
 ## 30 DAYS
 
-- [x] [Day #1](https://github.com/Pakesy/30-days-of-JS/day-1)
+- [x] [Day #1](https://github.com/Pakesy/30-days-of-JS/tree/main/day-1)
 - [ ] [Day #2]
 - [ ] [Day #3]
 - [ ] [Day #4]
