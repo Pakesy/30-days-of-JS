@@ -41,18 +41,18 @@ console.log(sentence.lastIndexOf("because")); // 47
 
 console.log(sentence.search("because")); // 31
 
-console.log(challenge.trim());
+console.log(challenge.trim()); // 30 Days Of JavaScript
 
-console.log(challenge.startsWith("30"));
+console.log(challenge.startsWith("30")); // true
 
-console.log(challenge.endsWith("JavaScript"));
+console.log(challenge.endsWith("JavaScript")); // true
 
-console.log(challenge.match("a"));
+console.log(challenge.match("a")); // ['a', index: 4, input: '30 Days Of JavaScript', groups: undefined]
 
 let first = '30 Days of ';
 let second = 'JavaScript';
 
-console.log(first.concat(second));
+console.log(first.concat(second)); // 30 Days of JavaScript
 
-console.log(challenge.repeat(2))
+console.log(challenge.repeat(2)) // 30 Days Of JavaScript30 Days Of JavaScript
 
